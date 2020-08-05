@@ -211,7 +211,7 @@ echo
 echo
 echo "###########################################"
 echo "#                                         #"
-echo "#    NOW SYSTEM IS GOING IN \"chroot\"    #"
+echo "#    NOW SYSTEM IS GOING IN \"chroot\"      #"
 echo "# WHERE YOU MUST LAUNCH SCRIPT BY TYPING: #"
 echo "#                                         #"
 echo "#              ./runner2.sh               #"

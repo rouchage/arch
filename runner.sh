@@ -169,7 +169,7 @@ then
 else
  if [ "\$Desktopi" = "xfce" ]
  then
-   pacman -S mousepad vlc chromium pepper-flash pulseaudio ttf-dejavu ttf-liberation ttf-joypixels xfce4 xfce4-pulseaudio-plugin xfce4-screenshooter xfce4-xkb-plugin thunar-archive-plugin pavucontrol onboard lxdm engrampa unrar p7zip deadbeef dhcpcd gvfs gvfs-mtp --noconfirm
+   pacman -S mousepad vlc chromium pepper-flash pulseaudio ttf-dejavu ttf-liberation ttf-joypixels xfce4 xfce4-notifyd xfce4-pulseaudio-plugin xfce4-screenshooter xfce4-xkb-plugin thunar-archive-plugin pavucontrol onboard lxdm engrampa unrar p7zip deadbeef dhcpcd gvfs gvfs-mtp --noconfirm
    systemctl enable lxdm
    systemctl enable dhcpcd
  elif [ "\$Desktopi" = "gnome" ]
